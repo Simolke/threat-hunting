@@ -1,4 +1,4 @@
-# Threat Hunts  (WIP)
+# Threat Hunts 
 
 Welcome to my threat hunting portfolio! This repository documents my
 hands-on cybersecurity learning through threat hunts, log
