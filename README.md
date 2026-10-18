@@ -20,5 +20,5 @@ the tools used, and the findings.
 This portfolio is a work in progress and will evolve as I develop
 my threat hunting skills and explore new techniques.
 
-*All investigations are conducted in authorized lab environments
+*All investigations are conducted in authorized environments
 or use publicly available datasets.*
