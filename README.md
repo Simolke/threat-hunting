@@ -11,7 +11,7 @@ the tools used, and the findings.
 
 | # | Hunt | Focus |
 |---|------|-------|
-| 01 | [ECHOLEAK](placeholder) | Copilot Indirect Prompt Injection |
+| 01 | [ECHOLEAK](hunts/01-ECHOLEAK.md) | Copilot Indirect Prompt Injection |
 | 02 | [Unauthorized TOR Usage](placeholder) | Unauthorized Powershell to Bypass Corporate Security |
 
 
