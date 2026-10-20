@@ -12,7 +12,7 @@ the tools used, and the findings.
 | # | Hunt | Focus |
 |---|------|-------|
 | 01 | [ECHOLEAK](hunts/01-ECHOLEAK.md) | Copilot Indirect Prompt Injection |
-| 00 | [Unauthorized TOR Usage](hunts/02-threat-hunting-scenario-TOR.md) | (Sample) Unauthorized Powershell Lab Exercise|
+| 00 | [Unauthorized TOR Usage](hunts/02-threat-hunting-scenario-TOR.md) | (Lab Exercise) Unauthorized TOR Browser |
 
 
 ## About This Repository
