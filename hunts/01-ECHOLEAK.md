@@ -1,6 +1,6 @@
 # Cormorant Capital // Copilot Hijack (Indirect Prompt Injection) Full Incident Response Report
  
-**Analyst:** Zach Simolke
+**Analyst:** Zach Simolke  
 **Date Completed:** 17 October 2026  
 **Flags Captured:** 17 of 17 across 6 hunt sections
  
